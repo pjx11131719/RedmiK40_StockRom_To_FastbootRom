@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.15/miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
-  ROM_Version: miui21.4.15
+  ROM_URL: https://ultimateota.d.miui.com/OS1.0.15.0.UNACNXM/miui_AURORA_OS1.0.15.0.UNACNXM_d2975034eb_14.0.zip?t=1720204937&s=790620d823c19e655d8f82339acb7a21
+  ROM_Version: OS1.0.15.0
   TZ: Asia/Shanghai
 
 jobs:
